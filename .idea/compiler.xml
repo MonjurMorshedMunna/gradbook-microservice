@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gradbook-config-server" />
+        <module name="gradbook-newsfeed-resource" />
+        <module name="gradbook-oauth-server" />
+        <module name="gradbook-registration" />
+        <module name="hazelcast-storage-node" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gradbook-config-server" target="1.8" />
+      <module name="gradbook-microservices" target="1.5" />
+      <module name="gradbook-newsfeed-resource" target="1.8" />
+      <module name="gradbook-oauth-server" target="1.8" />
+      <module name="gradbook-registration" target="1.8" />
+      <module name="hazelcast-storage-node" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

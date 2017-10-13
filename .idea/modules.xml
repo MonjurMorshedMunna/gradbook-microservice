@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gradbook-config-server/gradbook-config-server.iml" filepath="$PROJECT_DIR$/gradbook-config-server/gradbook-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradbook-microservices.iml" filepath="$PROJECT_DIR$/gradbook-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradbook-newsfeed-resource/gradbook-newsfeed-resource.iml" filepath="$PROJECT_DIR$/gradbook-newsfeed-resource/gradbook-newsfeed-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradbook-oauth-server/gradbook-oauth-server.iml" filepath="$PROJECT_DIR$/gradbook-oauth-server/gradbook-oauth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradbook-registration/gradbook-registration.iml" filepath="$PROJECT_DIR$/gradbook-registration/gradbook-registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hazelcast-storage-node/hazelcast-storage-node.iml" filepath="$PROJECT_DIR$/hazelcast-storage-node/hazelcast-storage-node.iml" />
+    </modules>
+  </component>
+</project>
